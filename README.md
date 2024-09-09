@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Aadhil</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/216318930-4b577013-f922-4a32-b7f0-4ab7dc361880.png" width="200" /></p>
+<h3 align="center">A passionate full stack developer from Sri Lanka</h3>
+<br/>
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" width="500" height="300" />
+</p>
+<br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aadhil-official&label=Profile%20views&color=0e75b6&style=flat" alt="aadhil-official" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aadhil-official" alt="aadhil-official" /></a> </p>
