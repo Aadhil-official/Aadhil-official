@@ -81,9 +81,6 @@
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=aadhil-official&show_icons=true&locale=en" alt="aadhil-official" width="450" height="220" />
     <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=aadhil-official&" alt="aadhil-official" width="450" height="220" />
   </p>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/>
-
----
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aadhil-official&show_icons=true&locale=en&layout=compact" alt="aadhil-official" width="450" height="220" />
