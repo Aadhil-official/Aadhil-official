@@ -78,16 +78,16 @@
 ---
   
   <p><br/>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=aadhil-official&show_icons=true&locale=en" alt="aadhil-official" width="100%" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=aadhil-official&show_icons=true&locale=en" alt="aadhil-official" width="100%" height="550" />
     <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
   </p>
   <p>
-    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=aadhil-official&" alt="aadhil-official" width="100%" />
+    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=aadhil-official&" alt="aadhil-official" width="100%" height="400" />
     <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
   </p>
 
 <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aadhil-official&show_icons=true&locale=en&layout=compact" alt="aadhil-official" width="100%" /><br/><br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aadhil-official&show_icons=true&locale=en&layout=compact" alt="aadhil-official" width="100%" height="550" /><br/><br/>
 </p>
 
 ---
