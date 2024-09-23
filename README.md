@@ -79,12 +79,12 @@
 <div hight="1000" style="display:inline;">
   
 <p>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aadhil-official&" alt="aadhil-official" width="100%" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=aadhil-official&show_icons=true&locale=en" alt="aadhil-official" width="100%" />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aadhil-official&" alt="aadhil-official" width="30%" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=aadhil-official&show_icons=true&locale=en" alt="aadhil-official" width="30%" />
 </p>
 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=aadhil-official&show_icons=true&locale=en&layout=compact" alt="aadhil-official" width="100%" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=aadhil-official&show_icons=true&locale=en&layout=compact" alt="aadhil-official" width="30%" /></p>
 </div>
 
 ---
